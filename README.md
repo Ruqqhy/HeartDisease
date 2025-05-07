@@ -1,3 +1,3 @@
 # HeartDisease
-A project about heart diseases and how machine learning odels can be used to predict heart disease
+A project about heart diseases and how machine learning models can be used to predict heart disease
 In recent years, the integration of data science and machine learning into healthcare has opened new avenues for accurate and efficient heart disease prediction. By analyzing various risk factors—such as age, blood pressure, cholesterol levels, and lifestyle habits—predictive models can assist clinicians in diagnosing and stratifying patients based on their likelihood of developing heart-related conditions. These models, when trained on large, diverse datasets, have shown promising results in enhancing diagnostic accuracy, supporting clinical decision-making, and ultimately saving lives.
