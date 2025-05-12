@@ -64,6 +64,6 @@ The EDA process involved:
 * **Pandas, NumPy** – Data manipulation
 * **Matplotlib, Seaborn** – Data visualization
 * **Scikit-learn** – Model building and evaluation
-* **Colab Notebook** – Interactive analysis
+* **Jupyter Notebook** – Interactive analysis
 
 
